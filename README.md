@@ -1,4 +1,4 @@
-# pyhton-word-guessing-game
+"# python-word-guessing-game
 This project is a simple yet fun Word Guessing Gme written in Python.
 The player tries to guess a randomly selected word within a limited numbers of attempts.
 
